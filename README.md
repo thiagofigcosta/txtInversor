@@ -16,22 +16,12 @@ ENUS
 -------------------------------------------------------
 ABOUT
 -------------------------------------------------------
-Program created to invert a string quickly.
-The MIT License (MIT) read LICENSE.txt;	
-
+Micro mundos files.
 
 -------------------------------------------------------
 HOW TO RUN
 -------------------------------------------------------
-files in /win32
-*Windows: Just run "iNanoInversor.exe"
-*Linux: Run "iNanoInversor.exe" using wine
-
--------------------------------------------------------
-HOW TO USE
--------------------------------------------------------
-Open the program
-Type or paste the text then click "Inverter".
+Open projects in micro mundos 2.
 
 ====
 PTBR
@@ -39,19 +29,9 @@ PTBR
 -------------------------------------------------------
 SOBRE
 -------------------------------------------------------
-Programa criado para inverter uma string rapidamente.
-The MIT License (MIT) read LICENSE.txt;	
-
+Arquivos micromundos 2
 
 -------------------------------------------------------
 COMO ABRIR
 -------------------------------------------------------
-files in /win32
-*Windows: Apenas abra "iNanoInversor.exe"
-*Linux: Abra "iNanoInversor.exe" usando wine
-
--------------------------------------------------------
-COMO USAR
--------------------------------------------------------
-Abra o programa
-Digite ou cole o texto e aperte "Inverter".
+Abra os projetos no micro mundos 2
